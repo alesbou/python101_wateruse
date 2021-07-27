@@ -1,0 +1,411 @@
+agy_code,AgencyName,longitude,latitude,Hydrologic_Region,est_perc_u10,est_perc_o75,est_med_income,DAC_dummy
+1130,Fruitridge Vista Water Company,-121.4564,38.51137,Sacramento River,18,4,28736,1
+1166,Hemet  City of,-116.9815,33.74298,South Coast,13,13,30068,1
+1146,Golden State Water Company Florence Graham,-118.2443,33.96816,South Coast,19,2,33007,1
+1407,"Yreka, City of",-122.6305,41.72977,North Coast,14,10,34631,1
+1088,"Corcoran, City of",-119.5611,36.0806,Tulare Lake,11,2,35636,1
+1269,"Perris, City of",-117.2311,33.78148,South Coast,17,2,36784,1
+1050,California Water Service Company Oroville,-121.5572,39.49772,Sacramento River,16,6,36893,1
+1192,Lamont Public Utility District,-118.9162,35.24894,Tulare Lake,22,2,37126,1
+1091,Crescent City  City of,-124.1877,41.77595,North Coast,12,5,37377,1
+1007,"Anderson, City of",-122.2945,40.44995,Sacramento River,13,8,37737,1
+1226,Mission Springs Water District,-116.5995,33.97184,Colorado River,15,6,38486,1
+1199,Linda County Water District,-121.5526,39.12169,Sacramento River,18,3,38501,1
+1034,Calexico  City of,-115.4993,32.67902,Colorado River,16,6,38533,1
+1390,Vernon  City of,-118.2145,34.00212,South Coast,15,4,38604,1
+1013,Arvin Community Services District,-118.8319,35.2061,Tulare Lake,19,1,38682,1
+1174,Huntington Park  City of,-118.2169,33.9788,South Coast,16,3,38918,1
+1141,Golden State Water Company Bell-Bell Gardens,-118.1707,33.96857,South Coast,17,3,39283,1
+1394,Wasco  City of,-119.3703,35.59526,Tulare Lake,16,3,39298,1
+1000,Adelanto City of,-117.4407,34.58106,South Lahontan,19,2,39501,1
+1101,Dinuba  City of,-119.3894,36.54529,Tulare Lake,21,4,39675,1
+1376,Twentynine Palms Water District,-116.0893,34.167,Colorado River,17,3,39697,1
+1098,Delano  City of,-119.2575,35.76692,Tulare Lake,18,3,39827,1
+1011,Arcata  City of,-124.0753,40.86201,North Coast,9,4,40650,1
+1079,City of Newman Water Department,-121.0252,37.31681,San Joaquin River,18,4,40935,1
+1113,El Monte  City of,-118.0376,34.0741,South Coast,14,6,40988,1
+1044,California Water Service Company Kern River Valley,-118.3889,35.66553,Tulare Lake,8,12,41097,1
+1056,California Water Service Company Stockton,-121.2819,37.95315,San Joaquin River,17,5,41152,1
+1322,San Jacinto  City of,-116.9598,33.78777,South Coast,16,6,41548,1
+1189,Lake Hemet Municipal Water District,-116.9105,33.73917,South Coast,15,8,41838,1
+1078,"City of Big Bear Lake, Dept of Water & Power",-116.8844,34.24398,South Coast,9,7,41858,1
+1048,California Water Service Company Marysville,-121.5778,39.15345,Sacramento River,15,6,42010,1
+1180,Joshua Basin Water District,-116.2803,34.16666,Colorado River,13,8,42178,1
+1212,Madera  City of,-120.0774,36.96729,San Joaquin River,20,3,42365,1
+1211,Lynwood  City of,-118.2054,33.92638,South Coast,17,3,42399,1
+1263,Paradise Irrigation District,-121.6056,39.75648,Sacramento River,8,13,42443,1
+1309,San Bernardino  City of,-117.3059,34.13955,South Coast,17,3,42564,1
+1351,South Gate  City of,-118.1977,33.94842,South Coast,16,3,42634,1
+1045,California Water Service Company King City,-121.1285,36.21594,Central Coast,18,4,42760,1
+1127,Fortuna  City of,-124.1415,40.58554,North Coast,13,9,42941,1
+1097,Del Oro Water Company,-121.5903,39.78046,Sacramento River,8,14,42986,1
+1081,Coachella  City of,-116.1572,33.68096,Colorado River,19,2,43181,1
+1344,Shasta Lake  City of,-122.3733,40.6748,Sacramento River,11,9,43274,1
+1287,Red Bluff  City of,-122.2369,40.17039,Sacramento River,15,8,43480,1
+1042,California Water Service Company East Los Angeles,-118.1598,34.01617,South Coast,15,5,43499,1
+1251,Oildale Mutual Water Company,-119.0455,35.43278,Tulare Lake,17,5,43545,1
+1059,California Water Service Company Willows,-122.201,39.52161,Sacramento River,10,6,43938,1
+1120,Eureka  City of,-124.1666,40.78186,North Coast,11,7,44006,1
+1159,Groveland Community Services District,-120.2081,37.83913,San Joaquin River,6,14,44329,1
+1086,Compton  City of,-118.2257,33.89507,South Coast,17,3,44576,1
+1168,Hi-Desert Water District,-116.3994,34.15359,Colorado River,14,8,44995,1
+1018,Bakman Water Company,-119.7083,36.74617,Tulare Lake,19,4,45181,1
+1404,Winton Water & Sanitary District,-120.6164,37.38744,San Joaquin River,19,4,45197,1
+1139,Golden State Water Company Barstow,-117.0362,34.88892,South Lahontan,17,5,45311,1
+1162,Hawthorne  City of,-118.3491,33.91833,South Coast,15,3,45347,1
+1054,California Water Service Company Selma,-119.6196,36.57698,Tulare Lake,16,5,45643,1
+1099,Desert Water Agency,-116.5597,33.7465,Colorado River,9,12,45755,1
+1201,Livingston  City of,-120.7256,37.38774,San Joaquin River,18,4,45834,1
+1363,Sweetwater Springs Water District,-123.0048,38.48646,North Coast,7,4,45906,1
+1178,Inglewood  City of,-118.3449,33.95964,South Coast,15,4,46101,1
+1264,Paramount  City of,-118.1652,33.89656,South Coast,16,2,46168,1
+1182,"Kerman, City of",-120.0629,36.72764,Tulare Lake,21,3,46301,1
+1025,Big Bear City Community Services District,-116.8265,34.25327,South Coast,9,7,46387,1
+1106,East Niles Community Service District,-118.922,35.37008,Tulare Lake,19,4,46661,1
+1329,Sanger  City of,-119.555,36.69976,Tulare Lake,18,6,46667,1
+1052,California Water Service Company Redwood Valley,-122.9122,38.68213,North Coast,13,4,46715,1
+1291,Reedley  City of,-119.4481,36.59748,Tulare Lake,18,6,46959,1
+1281,Porterville  City of,-119.0984,36.07605,Tulare Lake,18,5,46989,1
+1210,"Los Banos, City of",-120.8409,37.06319,San Joaquin River,17,4,47139,1
+1350,South Feather Water and Power Agency,-121.4782,39.45192,Sacramento River,12,10,47210,1
+1288,Redding  City of,-122.3744,40.57456,Sacramento River,13,8,47219,1
+1121,Exeter  City of,-119.1451,36.29372,Tulare Lake,15,6,47381,1
+1377,Ukiah  City of,-123.2102,39.14604,North Coast,14,6,47385,1
+1221,Merced  City of,-120.476,37.30724,San Joaquin River,17,4,47482,1
+1154,Golden State Water Company Southwest,-118.3274,33.90963,South Coast,15,5,47731,1
+1391,Victorville Water District,-117.3675,34.52085,South Lahontan,18,3,47765,1
+1230,Montebello Land and Water Company,-118.1101,34.01382,South Coast,13,8,47792,1
+1151,Golden State Water Company S San Gabriel,-118.0974,34.06189,South Coast,11,7,47825,1
+1035,California City  City of,-117.8386,35.18244,South Lahontan,14,5,48015,1
+1019,Banning  City of,-116.8989,33.94607,Colorado River,12,12,48094,1
+1093,Crestline Village Water District,-117.2758,34.24472,South Lahontan,11,6,48479,1
+1073,Ceres  City of,-120.9551,37.59723,San Joaquin River,16,4,48665,1
+1365,"Tehachapi, City of",-118.4441,35.1307,Tulare Lake,17,4,48802,1
+1171,Humboldt Bay Municipal Water District,-124.032,40.80734,North Coast,10,6,48880,1
+1167,Hesperia Water District City of,-117.3048,34.39672,South Lahontan,16,5,49058,1
+1372,"Tulare, City of",-119.3351,36.20359,Tulare Lake,19,4,49064,1
+1027,Brawley  City of,-115.5352,32.97697,Colorado River,17,5,49359,0
+1227,"Modesto, City of",-120.9924,37.66321,San Joaquin River,14,5,49396,0
+1026,Blythe  City of,-114.576,33.62941,Colorado River,13,5,49423,0
+1292,Rialto  City of,-117.3762,34.10371,South Coast,17,3,49669,0
+1373,Tuolumne Utilities District,-120.3296,38.00409,San Joaquin River,10,10,49774,0
+1396,West Kern Water District,-119.4763,35.16775,Tulare Lake,15,4,49784,0
+1346,"Soledad, City of",-121.3198,36.43185,Central Coast,22,3,49797,0
+1353,South Tahoe Public Utilities District,-119.9953,38.89565,North Lahontan,11,4,49845,0
+1085,"Colton, City of",-117.3189,34.05334,South Coast,18,3,49988,0
+1328,San Luis Obispo  City of,-120.6653,35.27219,Central Coast,6,5,49997,0
+1395,Watsonville  City of,-121.7697,36.9207,Central Coast,18,4,50108,0
+1219,McKinleyville Community Service District,-124.0891,40.95572,North Coast,15,6,50234,0
+1261,Palmdale Water District,-118.0013,34.46829,South Lahontan,18,3,50258,0
+1039,California Water Service Company Chico District,-121.8611,39.7453,Sacramento River,12,6,50267,0
+1129,Fresno  City of,-119.7916,36.77974,Tulare Lake,17,5,50322,0
+1308,Sacramento Suburban Water District,-121.3703,38.64887,Sacramento River,14,6,50897,0
+1252,Olivehurst Public Utility District,-121.5522,39.06546,Sacramento River,17,4,50973,0
+1004,Amador Water Agency,-120.7732,38.38555,San Joaquin River,7,9,51050,0
+1062,California-American Water Company Sacramento District,-121.377,38.561,Sacramento River,14,4,51215,0
+1037,California Water Service Company Bakersfield,-118.9675,35.35501,Tulare Lake,19,4,51616,0
+1111,El Centro  City of,-115.5551,32.78795,Colorado River,17,5,51690,0
+1361,Susanville  City of,-120.6469,40.41154,North Lahontan,13,5,52153,0
+1009,Apple Valley Ranchos Water Company,-117.2205,34.51879,South Lahontan,13,6,52288,0
+1172,Humboldt Community Service District,-124.1473,40.75497,North Coast,11,7,52566,0
+1158,"Greenfield, City of",-121.2532,36.32219,Central Coast,22,3,52668,0
+1083,Coalinga City of,-120.3143,36.17828,Tulare Lake,14,3,52697,0
+1015,Atwater  City of,-120.5992,37.35322,San Joaquin River,16,5,52903,0
+1268,Patterson  City of,-121.1362,37.47303,San Joaquin River,19,3,53012,0
+1306,Sacramento  City of,-121.4669,38.5652,Sacramento River,14,5,53056,0
+1408,Yuba City  City of,-121.6239,39.13528,Sacramento River,16,6,53120,0
+1271,Phelan Pinon Hills Community Services District,-117.5649,34.46726,South Lahontan,13,4,53159,0
+1311,San Bernardino County Service Area 70J,-117.558,34.45324,South Coast,13,4,53333,0
+1397,West Sacramento  City of,-121.543,38.57842,Sacramento River,14,5,53647,0
+1229,Monte Vista Water District,-117.7027,34.05667,South Coast,14,4,53700,0
+1177,Indio  City of,-116.2336,33.74147,Colorado River,15,8,54021,0
+1265,Park Water Company,-118.1488,33.9026,South Coast,15,4,54235,0
+1301,Rosamond Community Service District,-118.1855,34.86566,South Lahontan,16,3,54347,0
+1160,Grover Beach  City of,-120.6188,35.12039,Central Coast,12,7,54374,0
+1374,Turlock  City of,-120.853,37.50421,San Joaquin River,15,6,54671,0
+1317,San Fernando  City of,-118.4354,34.2887,South Coast,16,3,54704,0
+1109,East Valley Water District,-117.2079,34.13165,South Coast,16,4,54726,0
+1384,Valley County Water District,-117.9582,34.10085,South Coast,13,4,55068,0
+1082,Coachella Valley Water District,-116.1821,33.59738,Colorado River,12,10,55091,0
+1362,Sweetwater Authority,-117.065,32.64966,South Coast,13,6,55387,0
+1016,Azusa  City of,-117.913,34.13441,South Coast,15,4,55502,0
+1057,California Water Service Company Visalia,-119.2757,36.26698,Tulare Lake,17,5,55582,0
+1202,Lodi  City of Public Works Department,-121.279,38.12782,San Joaquin River,14,7,55663,0
+1273,Pico Water District,-118.0856,33.99405,South Coast,15,7,56009,0
+1196,Lemoore  City of,-119.7982,36.29605,Tulare Lake,18,3,56498,0
+1343,Shafter  City of,-119.2155,35.48571,Tulare Lake,17,2,56644,0
+1003,Alhambra  City of,-118.1347,34.08407,South Coast,9,7,56773,0
+1022,Bellflower-Somerset Mutual Water Company,-118.1254,33.88348,South Coast,14,4,56799,0
+1310,San Bernardino County Service Area 64,-117.2623,34.48785,South Lahontan,11,10,56799,0
+1234,Morro Bay  City of,-120.8467,35.36872,Central Coast,8,10,56845,0
+1337,Santa Maria  City of,-120.4386,34.93547,Central Coast,17,5,56869,0
+1125,Fillmore  City of,-118.919,34.40035,South Coast,18,5,56880,0
+1304,Rubidoux Community Service District,-117.4106,33.99885,South Coast,17,3,57002,0
+1254,Ontario  City of,-117.608,34.05076,South Coast,15,3,57136,0
+1295,"Rio Vista, city of",-121.7032,38.17716,Sacramento River,8,14,57166,0
+1217,Marina Coast Water District,-121.7968,36.68692,Central Coast,12,5,57272,0
+1354,Stockton  City of,-121.3201,37.98551,San Joaquin River,15,5,57380,0
+1279,Pomona  City of,-117.7579,34.05725,South Coast,15,4,57496,0
+1339,Santa Paula  City of,-119.0938,34.34175,South Coast,16,5,57701,0
+1232,Monterey Park  City of,-118.1314,34.05143,South Coast,9,9,57812,0
+1208,Los Angeles County Public Works Waterworks District 40,-117.9539,34.65763,South Lahontan,15,4,57893,0
+1161,Hanford  City of,-119.6481,36.32529,Tulare Lake,17,5,58091,0
+1033,Calaveras County Water District,-120.5282,38.16998,San Joaquin River,9,8,58163,0
+1392,Vista Irrigation District,-117.2207,33.1901,South Coast,13,6,58231,0
+1205,Lompoc  City of,-120.4719,34.66062,Central Coast,17,4,58345,0
+1118,Escondido  City of,-117.0565,33.13266,South Coast,14,5,58366,0
+1020,Beaumont-Cherry Valley Water District,-116.9698,33.96629,South Coast,13,7,58391,0
+1274,Pinedale County Water District,-119.801,36.83881,Tulare Lake,11,7,58506,0
+1272,Pico Rivera  City of,-118.0893,33.9922,South Coast,15,7,58859,0
+1124,Fallbrook Public Utility District,-117.2626,33.40777,South Coast,16,4,58933,0
+1213,Mammoth Community Water District,-118.9744,37.64262,South Lahontan,12,2,59142,0
+1247,North Tahoe Public Utility District,-120.0513,39.23753,North Lahontan,12,3,59529,0
+1405,Woodland  City of,-121.7639,38.67652,Sacramento River,14,6,59539,0
+1209,Los Angeles Department of Water and Power,-118.4072,34.11917,South Coast,12,5,59707,0
+1330,Santa Ana  City of,-117.8809,33.73665,South Coast,16,3,60061,0
+1319,San Gabriel County Water District,-118.0935,34.09275,South Coast,10,8,60080,0
+1249,Oakdale  City of,-120.8537,37.76672,San Joaquin River,16,5,60132,0
+1300,Rohnert Park  City of,-122.6984,38.34798,North Coast,11,5,60314,0
+1297,Riverbank  City of,-120.937,37.72988,San Joaquin River,15,4,60382,0
+1063,California-American Water Company San Diego District,-117.1139,32.60047,South Coast,14,5,60550,0
+1140,Golden State Water Company Bay Point,-121.9608,38.02909,San Francisco Bay,16,3,60663,0
+1321,San Gabriel Valley Water Company,-117.7307,34.06452,South Coast,14,5,60827,0
+1165,Helix Water District,-116.9693,32.7837,South Coast,13,6,60828,0
+1206,Long Beach  City of,-118.1626,33.79641,South Coast,13,4,60863,0
+1276,Pittsburg  City of,-121.8953,38.01691,San Francisco Bay,15,4,60956,0
+1298,Riverside  City of,-117.4072,33.94147,South Coast,14,4,60988,0
+1021,Bella Vista Water District,-122.2785,40.62049,Sacramento River,11,8,61001,0
+1002,Alco Water Service,-121.6124,36.71277,Central Coast,18,3,61011,0
+1103,Downey  City of,-118.1303,33.93777,South Coast,13,5,61322,0
+1183,"Kingsburg, City of",-119.557,36.52072,Tulare Lake,14,6,61322,0
+1053,California Water Service Company Salinas District,-121.6529,36.71303,Central Coast,17,4,61564,0
+1299,Riverside Highland Water Company,-117.3056,34.018,South Coast,17,5,61597,0
+1077,Citrus Heights Water District,-121.2694,38.694,Sacramento River,11,6,61736,0
+1133,Garden Grove  City of,-117.9594,33.77876,South Coast,13,5,61790,0
+1243,Nipomo Community Services District,-120.5046,35.04312,Central Coast,12,7,61911,0
+1385,Valley of the Moon Water District,-122.5032,38.32448,San Francisco Bay,11,8,61947,0
+1401,Westminster  City of,-117.9928,33.75208,South Coast,11,7,62001,0
+1069,Carmichael Water District,-121.3221,38.6243,Sacramento River,12,9,62019,0
+1194,"Lathrop, City of ",-121.3133,37.8096,San Joaquin River,15,3,62209,0
+1250,Oceanside  City of,-117.3093,33.22324,South Coast,14,5,62221,0
+1110,Eastern Municipal Water District,-117.1264,33.76762,South Coast,15,5,62263,0
+1188,Lake Arrowhead Community Services District,-117.1963,34.25362,South Lahontan,13,5,62299,0
+1066,Cambria Community Services District,-121.0932,35.56372,Central Coast,7,13,62455,0
+1203,Loma Linda  City of *,-117.2497,34.04477,South Coast,12,6,62668,0
+1248,Norwalk City of,-118.0783,33.90239,South Coast,13,6,62724,0
+1240,Nevada Irrigation District,-121.1351,39.11593,Sacramento River,9,10,62739,0
+1215,Manteca  City of,-121.2306,37.79535,San Joaquin River,15,4,62748,0
+1071,Casitas Municipal Water District,-119.2956,34.38097,South Coast,12,7,62981,0
+1132,Galt  City of,-121.2995,38.26482,Sacramento River,14,5,63013,0
+1238,Myoma Dunes Mutual Water Company,-116.2828,33.74349,Colorado River,10,11,63089,0
+1170,Hollister  City of,-121.4037,36.86075,Central Coast,16,4,63159,0
+1280,Port Hueneme  City of,-119.1603,34.13597,South Coast,16,5,63284,0
+1176,Indian Wells Valley Water District,-117.6831,35.61131,South Lahontan,15,6,63334,0
+1147,Golden State Water Company Norwalk,-118.0683,33.92198,South Coast,14,5,63416,0
+1294,Rio Linda - Elverta Community Water District,-121.4469,38.69971,Sacramento River,17,4,63544,0
+1382,Vallejo  City of,-122.2311,38.11243,San Francisco Bay,12,6,63992,0
+1259,Oxnard  City of,-119.1811,34.19194,South Coast,16,4,64103,0
+1040,"California Water Service Company Dixon, City of",-121.8262,38.44643,Sacramento River,17,4,64399,0
+1164,Healdsburg  City of,-122.8645,38.62008,North Coast,10,8,64601,0
+1340,Santa Rosa  City of,-122.7053,38.44572,North Coast,13,6,64648,0
+1267,Paso Robles  City of,-120.659,35.64014,Central Coast,14,8,64691,0
+1150,Golden State Water Company S Arcadia,-118.0299,34.10363,South Coast,12,7,65180,0
+1136,Glendale  City of,-118.246,34.18009,South Coast,10,8,65507,0
+1096,Davis  City of,-121.7353,38.55658,Sacramento River,9,4,65524,0
+1335,Santa Fe Springs  City of,-118.0617,33.92982,South Coast,12,6,65547,0
+1293,Rincon Del Diablo Municipal Water District,-117.1014,33.10698,South Coast,10,7,65886,0
+1402,Whittier  City of,-118.0364,33.98038,South Coast,13,6,66036,0
+1398,West Valley Water District,-117.4041,34.1084,South Coast,16,3,66124,0
+1333,Santa Cruz  City of,-122.0339,36.97849,Central Coast,7,5,66177,0
+1012,Arroyo Grande  City of,-120.584,35.12408,Central Coast,10,8,66215,0
+1090,Covina  City of ,-117.8798,34.08445,South Coast,13,6,66309,0
+1320,San Gabriel Valley Fontana Water Company,-117.465,34.09187,South Coast,16,2,67356,0
+1256,Orange Vale Water Company,-121.2203,38.68542,Sacramento River,11,6,67427,0
+1080,Clovis  City of,-119.6947,36.82001,Tulare Lake,15,5,67936,0
+1030,Buena Park  City of,-118.0038,33.85771,South Coast,14,5,68029,0
+1006,Anaheim  City of,-117.8573,33.83854,South Coast,14,4,68462,0
+1014,Atascadero Mutual Water Company,-120.6821,35.47169,Central Coast,11,7,68469,0
+1355,Suburban Water Systems San Jose Hills,-117.9208,34.0428,South Coast,12,6,69035,0
+1031,Burbank  City of,-118.3221,34.18766,South Coast,11,7,69149,0
+1117,Elsinore Valley Municipal Water District,-117.3238,33.67285,South Coast,15,4,69222,0
+1381,Vallecitos Water District,-117.1706,33.15643,South Coast,13,7,69225,0
+1190,Lakeside Water District,-116.923,32.87861,South Coast,15,5,69273,0
+1138,Golden State Water Company Artesia,-118.0772,33.84701,South Coast,11,6,69602,0
+1036,California Water Service Company Antelope Valley,-118.2682,34.82732,South Lahontan,9,7,69819,0
+1134,Georgetown Divide Public Utilities District,-120.9087,38.87729,Sacramento River,9,9,70168,0
+1204,Lomita  City of,-118.3171,33.79348,South Coast,11,7,70685,0
+1313,San Buenaventura  City of,-119.212,34.26967,South Coast,12,8,70711,0
+1303,Rowland Water District,-117.9072,33.97979,South Coast,11,6,70750,0
+1122,Fair Oaks Water District,-121.2488,38.65344,Sacramento River,10,9,70775,0
+1115,El Toro Water District,-117.7094,33.61622,South Coast,9,14,70806,0
+1184,La Habra  City of Public Works,-117.95,33.92766,South Coast,13,6,71007,0
+1364,Tahoe City Public Utilities District,-120.1527,39.12054,North Lahontan,12,5,71187,0
+1358,Sunny Slope Water Company,-118.0749,34.113,South Coast,10,8,71309,0
+1131,Fullerton  City of,-117.9265,33.88396,South Coast,13,7,71325,0
+1257,Orchard Dale Water District,-118.0259,33.93362,South Coast,13,6,71506,0
+1409,Yucaipa Valley Water District,-117.0278,34.03028,South Coast,15,6,71633,0
+1017,Bakersfield  City of,-119.0149,35.35055,Tulare Lake,17,4,71662,0
+1283,Quartz Hill Water District,-118.215,34.65167,South Lahontan,11,6,71804,0
+1378,Upland  City of,-117.661,34.11776,South Coast,12,6,71869,0
+1041,California Water Service Company Dominguez,-118.2799,33.83885,South Coast,12,6,72152,0
+1070,Carpinteria Valley Water District,-119.5072,34.40742,Central Coast,9,8,72256,0
+1175,"Imperial, City of",-115.5741,32.84579,Colorado River,18,4,72370,0
+1163,Hayward  City of,-122.0848,37.63042,San Francisco Bay,14,5,72409,0
+1275,Pismo Beach  City of,-120.6491,35.14877,Central Coast,8,11,72623,0
+1123,Fairfield  City of,-122.0425,38.25151,Sacramento River,14,6,72855,0
+1060,California-American Water Company Los Angeles District,-118.0702,34.10154,South Coast,11,8,73345,0
+1347,Sonoma  City of,-122.4557,38.29056,San Francisco Bay,9,10,74022,0
+1197,Lincoln  City of,-121.2944,38.87545,Sacramento River,13,10,74482,0
+1108,"East Palo Alto, City of",-122.1363,37.46788,San Francisco Bay,16,3,74485,0
+1222,Mesa Water District,-117.9121,33.66591,South Coast,12,4,74507,0
+1289,Redlands  City of,-117.1712,34.05079,South Coast,13,6,74599,0
+1315,San Diego  City of,-117.1233,32.85236,South Coast,12,5,75023,0
+1148,Golden State Water Company Orcutt,-120.4269,34.8741,Central Coast,12,10,75069,0
+1075,Chino  City of,-117.6805,34.00197,South Coast,13,3,75213,0
+1145,Golden State Water Company Culver City,-118.3936,34.00633,South Coast,10,6,75339,0
+1284,Rainbow Municipal Water District,-117.1667,33.34208,South Coast,10,9,75370,0
+1008,Antioch  City of,-121.7958,37.98,San Joaquin River,14,4,75784,0
+1055,California Water Service Company South San Francisco,-122.4294,37.66341,San Francisco Bay,12,6,75864,0
+1367,Torrance  City of,-118.3345,33.83254,South Coast,12,7,75880,0
+1155,Golden State Water Company West Orange,-118.0379,33.80549,South Coast,12,7,76086,0
+1371,Truckee-Donner Public Utilities District,-120.2055,39.34468,North Lahontan,12,3,76423,0
+1239,Napa  City of,-122.3052,38.3026,San Francisco Bay,12,7,76650,0
+1191,Lakewood  City of,-118.131,33.84845,South Coast,12,6,76687,0
+1342,Seal Beach  City of,-118.071,33.75413,South Coast,8,16,76959,0
+1383,Valley Center Municipal Water District,-117.0537,33.24633,South Coast,13,6,77047,0
+1356,Suburban Water Systems Whittier/La Mirada,-118.0087,33.94662,South Coast,13,7,77214,0
+1260,Padre Dam Municipal Water District,-116.8772,32.84469,South Coast,12,6,77286,0
+1137,Glendora  City of,-117.8482,34.13531,South Coast,11,6,77725,0
+1403,"Windsor, Town of",-122.8025,38.54319,North Coast,13,6,78186,0
+1228,Monrovia  City of,-117.9909,34.16632,South Coast,13,6,78188,0
+1296,Ripon  City of,-121.131,37.74171,San Joaquin River,14,5,78467,0
+1331,Santa Barbara  City of,-119.709,34.43152,Central Coast,11,8,78544,0
+1061,California-American Water Company Monterey District,-121.8508,36.56126,Central Coast,11,10,78701,0
+1095,Daly City  City of,-122.4687,37.68613,San Francisco Bay,11,6,78831,0
+1094,Cucamonga Valley Water District,-117.5649,34.1243,South Coast,13,3,79062,0
+1156,Goleta Water District,-119.8418,34.44641,Central Coast,8,7,79117,0
+1357,Suisun-Solano Water Authority,-121.9487,38.374,San Francisco Bay,13,5,79199,0
+1112,El Dorado Irrigation District,-120.8238,38.71056,Sacramento River,11,7,79737,0
+1369,Tracy  City of,-121.436,37.73409,San Joaquin River,16,3,79910,0
+1302,Roseville  City of,-121.2929,38.76253,Sacramento River,14,7,79956,0
+1181,Jurupa Community Service District,-117.5164,33.99102,South Coast,17,3,80097,0
+1286,Rancho California Water District,-117.1619,33.51246,South Coast,14,5,80201,0
+1270,Petaluma  City of,-122.6276,38.24342,San Francisco Bay,13,7,80706,0
+1277,Placer County Water Agency,-121.1122,38.87659,Sacramento River,14,6,80741,0
+1338,Santa Monica  City of,-118.4813,34.02291,South Coast,8,7,80835,0
+1379,Vacaville  City of,-121.9743,38.35714,Sacramento River,12,5,80972,0
+1359,Sunnyslope County Water District,-121.3674,36.8336,Central Coast,14,5,81016,0
+1089,Corona  City of,-117.5771,33.85928,South Coast,15,4,81249,0
+1244,Norco  City of,-117.5495,33.9246,South Coast,12,4,81518,0
+1142,Golden State Water Company Claremont,-117.7185,34.12657,South Coast,11,7,81959,0
+1105,East Bay Municipal Utilities District,-122.1672,37.84269,San Francisco Bay,12,6,81960,0
+1128,Fountain Valley  City of,-117.9497,33.71051,South Coast,10,7,82042,0
+1100,Diablo Water District,-121.7087,37.993,San Joaquin River,15,4,82239,0
+1186,La Verne  City of,-117.7688,34.12135,South Coast,11,7,82369,0
+1348,Soquel Creek Water District,-121.9107,36.978,Central Coast,10,7,82430,0
+1152,Golden State Water Company San Dimas,-117.8211,34.09376,South Coast,11,7,82554,0
+1327,San Lorenzo Valley Water District,-122.1194,37.14946,Central Coast,10,4,82742,0
+1246,North Marin Water District,-122.6535,38.11485,San Francisco Bay,12,8,83012,0
+1266,Pasadena  City of,-118.1317,34.15629,South Coast,11,7,83206,0
+1010,Arcadia  City of,-118.038,34.13647,South Coast,10,8,83239,0
+1352,South Pasadena  City of,-118.1564,34.11024,South Coast,11,6,83456,0
+1185,La Palma  City of,-118.0404,33.85084,South Coast,9,7,83535,0
+1307,Sacramento County Water Agency,-121.286,38.50004,Sacramento River,15,3,83568,0
+1198,Lincoln Avenue Water Company,-118.1504,34.20238,South Coast,13,5,83788,0
+1135,Gilroy  City of,-121.5848,37.00441,Central Coast,16,4,84266,0
+1314,San Clemente  City of,-117.6162,33.4441,South Coast,17,4,84384,0
+1318,San Francisco Public Utilities Commission,-122.4412,37.75531,San Francisco Bay,8,7,84663,0
+1400,Western Municipal Water District of Riverside,-117.3829,33.82293,South Coast,13,4,84804,0
+1255,Orange  City of,-117.8368,33.80582,South Coast,12,5,85324,0
+1258,Otay Water District,-116.9235,32.66964,South Coast,13,5,85504,0
+1114,El Segundo  City of,-118.4018,33.92379,South Coast,10,5,85558,0
+1087,Contra Costa Water District,-121.999,37.96446,San Francisco Bay,12,6,85982,0
+1393,Walnut Valley Water District,-117.8349,34.00679,South Coast,9,5,86178,0
+1074,Cerritos  City of,-118.0676,33.86793,South Coast,10,7,86333,0
+1375,Tustin  City of,-117.8135,33.74886,South Coast,14,5,86638,0
+1326,San Juan Water District,-121.1906,38.73911,Sacramento River,10,6,86791,0
+1285,Ramona Municipal Water District,-116.8905,33.02134,South Coast,12,5,86804,0
+1092,Crescenta Valley Water District,-118.2377,34.22653,South Coast,12,6,87279,0
+1068,Carlsbad Municipal Water District,-117.2923,33.13339,South Coast,12,9,87369,0
+1116,Elk Grove Water Service,-121.3551,38.41549,Sacramento River,12,6,87374,0
+1312,San Bruno  City of,-122.4316,37.62519,San Francisco Bay,11,7,87708,0
+1173,Huntington Beach  City of,-118.0009,33.69664,South Coast,10,7,87800,0
+1218,Martinez  City of,-122.1212,37.99588,San Francisco Bay,11,6,88042,0
+1153,Golden State Water Company Simi Valley,-118.729,34.27205,South Coast,12,4,89217,0
+1143,Golden State Water Company Cordova,-121.387,38.59212,Sacramento River,15,7,89628,0
+1316,San Dieguito Water District,-117.2821,33.04937,South Coast,12,8,91084,0
+1023,Benicia  City of,-122.153,38.07237,San Francisco Bay,11,5,91259,0
+1072,Castaic Lake Water Agency Santa Clarita Water Division,-118.5617,34.44101,South Coast,13,4,91814,0
+1029,Brentwood  City of,-121.7185,37.93797,San Joaquin River,14,5,92175,0
+1065,Camarillo  City of,-119.047,34.22612,South Coast,13,8,92283,0
+1195,Lee Lake Water District,-117.4857,33.76944,South Coast,13,4,92518,0
+1325,San Juan Capistrano  City of,-117.6551,33.4991,South Coast,14,8,92528,0
+1028,Brea  City of,-117.8411,33.92752,South Coast,12,6,93353,0
+1399,Westborough Water District,-122.4583,37.6442,San Francisco Bay,11,7,94005,0
+1126,Folsom  City of,-121.1579,38.6785,Sacramento River,12,5,94449,0
+1024,Beverly Hills  City of,-118.3993,34.07896,South Coast,8,10,94527,0
+1324,San Jose Water Company,-121.9087,37.29772,San Francisco Bay,13,5,94792,0
+1241,Newhall County Water District,-118.5276,34.46811,South Coast,14,3,95064,0
+1005,"American Canyon, City of",-122.2511,38.19718,San Francisco Bay,13,4,95775,0
+1332,Santa Clara  City of,-121.9669,37.36465,San Francisco Bay,14,5,95988,0
+1387,Vaughn Water Company,-119.1787,35.39359,Tulare Lake,17,3,96958,0
+1157,Great Oaks Water Company Incorporated,-121.7912,37.24592,San Francisco Bay,15,3,97367,0
+1233,Morgan Hill  City of,-121.642,37.13377,Central Coast,14,4,97874,0
+1076,Chino Hills  City of,-117.7242,33.95019,South Coast,13,3,98212,0
+1389,Ventura County Waterworks District No. 8,-118.7479,34.26484,South Coast,11,5,98575,0
+1102,Discovery Bay Community Services District,-121.5981,37.91234,San Joaquin River,14,5,98610,0
+1224,Millbrae  City of,-122.4012,37.59918,San Francisco Bay,11,9,98972,0
+1349,South Coast Water District,-117.7273,33.49321,South Coast,9,10,100530,0
+1245,North Coast County Water District,-122.4827,37.60897,San Francisco Bay,11,5,100968,0
+1305,Rubio Canyon Land and Water Association,-118.1272,34.18895,South Coast,11,7,100999,0
+1001,Alameda County Water District,-122.0053,37.52942,San Francisco Bay,13,5,101003,0
+1380,Valencia Water Company,-118.5866,34.42801,South Coast,13,4,101049,0
+1236,Mountain House Community Services District,-121.5424,37.78421,San Joaquin River,18,2,101230,0
+1366,Thousand Oaks  City of,-118.8536,34.20045,South Coast,11,7,101769,0
+1043,California Water Service Company Hermosa/Redondo,-118.3813,33.85121,South Coast,13,6,101900,0
+1235,Moulton Niguel Water District,-117.7028,33.55709,South Coast,12,5,101963,0
+1225,Milpitas  City of,-121.891,37.43359,San Francisco Bay,13,4,102534,0
+1237,Mountain View  City of,-122.0795,37.40287,San Francisco Bay,13,5,103117,0
+1149,Golden State Water Company Placentia,-117.7888,33.88097,South Coast,12,5,104157,0
+1046,California Water Service Company Livermore,-121.771,37.67542,San Francisco Bay,13,6,104181,0
+1064,California-American Water Ventura District,-118.9302,34.19379,South Coast,11,7,104561,0
+1290,Redwood City  City of,-122.2253,37.50179,San Francisco Bay,14,5,104658,0
+1179,Irvine Ranch Water District,-117.7653,33.68207,South Coast,12,4,104717,0
+1231,Montecito Water District,-119.6098,34.438,Central Coast,9,10,105445,0
+1216,Marin Municipal Water District,-122.5659,37.95486,San Francisco Bay,11,8,105912,0
+1360,Sunnyvale  City of,-122.0211,37.38393,San Francisco Bay,15,5,106015,0
+1058,California Water Service Company Westlake,-118.8265,34.16679,South Coast,9,8,106500,0
+1049,California Water Service Company Mid Peninsula,-122.2998,37.53099,San Francisco Bay,13,7,106990,0
+1341,Scotts Valley Water District,-122.0052,37.06229,Central Coast,10,6,107606,0
+1388,Ventura County Waterworks District No 1,-118.8823,34.30126,South Coast,12,5,108162,0
+1242,Newport Beach  City of,-117.8894,33.62129,South Coast,9,8,108474,0
+1253,Olivenhain Municipal Water District,-117.1856,33.04737,South Coast,15,6,108549,0
+1067,Camrosa Water District,-118.932,34.23602,South Coast,10,9,108555,0
+1406,Yorba Linda Water District,-117.7732,33.8881,South Coast,13,5,110687,0
+1345,Sierra Madre  City of,-118.0494,34.16861,South Coast,13,7,111907,0
+1282,Poway  City of,-117.0359,32.9787,South Coast,13,5,112065,0
+1336,Santa Margarita Water District,-117.5837,33.55777,South Coast,16,4,112361,0
+1193,Las Virgenes Municipal Water District,-118.7503,34.11094,South Coast,11,7,112611,0
+1084,Coastside County Water District,-122.4497,37.49038,San Francisco Bay,11,6,112857,0
+1032,Burlingame  City of,-122.367,37.58455,San Francisco Bay,13,7,113087,0
+1187,Laguna Beach County Water District,-117.771,33.55402,South Coast,10,6,113842,0
+1119,Estero Municipal Improvement District,-122.2665,37.55534,San Francisco Bay,13,6,115399,0
+1107,East Orange County Water District,-117.7952,33.77828,South Coast,10,6,118044,0
+1323,San Jose  City of,-121.7992,37.32639,San Francisco Bay,15,5,118865,0
+1334,Santa Fe Irrigation District,-117.2194,33.01215,South Coast,14,6,118921,0
+1223,Mid-Peninsula Water District,-122.2925,37.51571,San Francisco Bay,13,7,118966,0
+1278,Pleasanton  City of,-121.8807,37.66509,San Francisco Bay,13,5,122090,0
+1051,California Water Service Company Palos Verdes,-118.3651,33.76452,South Coast,9,12,122288,0
+1200,Livermore  City of Division of Water Resources,-121.759,37.70636,San Francisco Bay,13,4,122627,0
+1207,Los Angeles County Public Works Waterworks District 29,-118.7041,34.06424,South Coast,10,7,125623,0
+1370,Triunfo Sanitation District / Oak Park Water Service,-118.7425,34.18602,South Coast,10,5,127094,0
+1220,Menlo Park  City of,-122.1759,37.46146,San Francisco Bay,14,5,127106,0
+1104,Dublin San Ramon Services District,-121.9056,37.7329,San Francisco Bay,16,3,127646,0
+1038,California Water Service Company Bear Gulch,-122.2879,37.39574,San Francisco Bay,13,8,132113,0
+1047,California Water Service Company Los Altos/Suburban,-122.0746,37.35847,San Francisco Bay,14,7,132652,0
+1262,Palo Alto  City of,-122.1458,37.39054,San Francisco Bay,12,8,133170,0
+1214,Manhattan Beach  City of,-118.3973,33.88955,South Coast,13,6,138782,0
+1368,Trabuco Canyon Water District,-117.5892,33.66864,South Coast,12,2,140164,0
+1386,Valley Water Company,-118.1943,34.19601,South Coast,10,8,148687,0
+1144,Golden State Water Company Cowan Heights,-117.7779,33.77514,South Coast,9,5,149923,0
+1169,Hillsborough  Town of,-122.3584,37.55666,San Francisco Bay,13,9,173069,0
